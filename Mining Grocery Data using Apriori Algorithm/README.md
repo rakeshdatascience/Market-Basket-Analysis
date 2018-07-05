@@ -58,9 +58,10 @@ To install mlxtend for Ariori Algorithm please type the code below
 
 
 
+
+
 <p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/python%201(import%20lib).PNG
-",alt="neofetch" align="middle" height="60px">
+  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/python%201(import%20lib).PNG",alt="neofetch" align="middle" height="50px">
   </p>
 
 
