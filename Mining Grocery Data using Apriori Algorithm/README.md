@@ -46,12 +46,22 @@ Please Click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/
 
 
 
+## Code snippets
+
+Code snippets given below are takesn from Python notebook
+
+
+To install mlxtend for Ariori Algorithm please type the code below
+`!pip install mlxtend`
+
+### Import necessary libraries
 
 
 
-
-
-
+<p align="center">
+  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/python%201(import%20lib).PNG
+",alt="neofetch" align="middle" height="60px">
+  </p>
 
 
 
