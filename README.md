@@ -3,7 +3,7 @@
 ## Overview
 
 <p align="center">
-  <img src="Images/group-of-vegetables-in-basket.jpg",alt="neofetch" align="left" height="190px">
+  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/group-of-vegetables-in-basket.jpg",alt="neofetch" align="left" height="190px">
   </p>
 
 
