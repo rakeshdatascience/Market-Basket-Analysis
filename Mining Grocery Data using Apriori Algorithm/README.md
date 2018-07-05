@@ -161,12 +161,17 @@ please ensure that `arules` is installed in R console before further diving
 
 
 
+### Find the basket with support 0.07 & confidence 0.35
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R7.PNG)
 
 
+#### Output
 
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R8.PNG)
 
-
-
+### Let's inspect top 6 associations by lift(descending order)
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R10.PNG)
 
 
 
