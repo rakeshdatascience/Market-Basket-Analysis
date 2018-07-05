@@ -15,5 +15,35 @@ Please click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/
 
 
 
+## Objective
+Market Basket Aalysis is widely used by superstores for the following things-
+### 1. `Cross Selling`
+### 2. `Product Placement`
+### 3. `Customer Segmentation`
+### 4. `Affinity Promotion`
+
+So keeping the above mentioned importances of Market Basket Analysis, the experiment was conducted on Grocery data to come up with sound business decisions to scale up the revenue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
