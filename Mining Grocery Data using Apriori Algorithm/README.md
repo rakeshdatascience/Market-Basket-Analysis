@@ -32,13 +32,16 @@ The data was collected from an online source. The Grocery data is typical transa
 
 Please Click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Dataset/Grocery.csv) to view the dataset.
 
-##### Have a glipse of the dataset
+##### Have a glimpse of the dataset
 
 
 
-<p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG",alt="neofetch" align="middle" height="150px">
-  </p>
+
+
+
+![alt-text]("https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG")
+
+
 
 
 
