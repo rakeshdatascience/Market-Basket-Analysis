@@ -21,7 +21,7 @@ The project aims at finding association among grocery products & finally establi
 
 
 
-## [Mining Grocery Data using Apriori Algorithm](Mining Grocery Data using Apriori Algorithm)
+## [Mining Grocery Data using Apriori Algorithm](Mining%20Grocery%20Data%20using%20Apriori%20Algorithm)
 
 
 
