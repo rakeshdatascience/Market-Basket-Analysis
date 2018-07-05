@@ -33,11 +33,7 @@ Data mining is an important field of Data Science. It enables us to mine or coll
   </p>
 
 
-
 <br/>
-
-
-
 The experiment  aims at finding association among grocery products appeaing in many transactions.It establishes association rules using `Apriori Algorithm` that give probability for any products occurring with other products in the same transaction. The probability & other metrics used in building Association Rules give us insights about Product Recommendation,Upselling,Product Placement & Affinity Promotion. 
 
 
