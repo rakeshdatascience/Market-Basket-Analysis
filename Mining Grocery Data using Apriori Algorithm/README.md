@@ -112,7 +112,7 @@ First basket after dummy encoding the variables
 
 
 
-## Code snippets(( Analysis done in R)
+## Code snippets( Analysis done in R)
 
 ### Import necessary library
 
