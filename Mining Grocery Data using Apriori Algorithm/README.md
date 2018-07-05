@@ -151,6 +151,17 @@ please ensure that `arules` is installed in R console before further diving
 
 
 
+### Top 5 frequently occurring items
+
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R6.PNG)
+
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R5.PNG)
+
+
+
+
 
 
 
