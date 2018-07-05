@@ -176,7 +176,8 @@ please ensure that `arules` is installed in R console before further diving
 
 
 
-
+## Future Scope
+Apriori Algorithm is widely used in Retail,e-commerce as transaction data in those industry gets generated rapidly.Apart from it's use in Retail,it's now being used in Healthcare for the detection of adverse drug reactions,Banks & Insurance companies use apriori algorithm to build association rules for product recommendation. 
 
 
 
