@@ -39,7 +39,10 @@ Please Click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/
 
 
 
-![alt-text]("https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG")
+
+
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG)
 
 
 
