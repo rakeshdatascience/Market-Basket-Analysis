@@ -37,8 +37,7 @@ Please Click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/
 
 
 <p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG
-",alt="neofetch" align="middle" height="200px">
+  <img src="https://github.com/rakeshdatascience/Market-Basket Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/Capture%60.PNG",alt="neofetch" align="middle" height="150px">
   </p>
 
 
