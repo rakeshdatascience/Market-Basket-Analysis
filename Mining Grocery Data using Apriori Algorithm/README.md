@@ -173,6 +173,7 @@ please ensure that `arules` is installed in R console before further diving
 ### Let's inspect top 6 associations by lift(descending order)
 ![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R10.PNG)
 
+### Inference
 Given the lift values of the transactions we can recommend the retailer to cross sell or place root vegetables with other vagetables derived from 1st transaction shown above & in the same way we can recommend root vegetables when beef,other vegetables are also purchased derived from 3rd transaction.
 
 
