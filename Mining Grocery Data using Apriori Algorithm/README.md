@@ -46,7 +46,7 @@ Please Click [here](https://github.com/rakeshdatascience/Market-Basket-Analysis/
 
 
 
-## Code snippets
+## Code snippets( Analysis done in Python)
 
 Code snippets given below are takesn from Python notebook
 
@@ -112,12 +112,41 @@ First basket after dummy encoding the variables
 
 
 
+## Code snippets(( Analysis done in R)
+
+### Import necessary library
+
+please ensure that `arules` is installed in R console before further diving
+
+<p align="center">
+  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R1.PNG",alt="neofetch" align="middle" height="80px">
+  </p>
 
 
 
 
+### Read the data & find the summary
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R2.PNG)
+
+### Let's inspect first seven transactions
 
 
+<p align="center">
+  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R3.PNG",alt="neofetch" align="middle" height="180px">
+  </p>
+
+
+
+### Let's see what we get with support of 10%
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R4.1.PNG)
+
+#### Output
+
+
+
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/R4.PNG)
 
 
 
