@@ -93,10 +93,7 @@ First basket after dummy encoding the variables
 
 
 
-<p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p4.PNG",alt="neofetch" align="middle" height="140px">
-  </p>
-
+![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p4.PNG)
 
 
 
@@ -105,14 +102,13 @@ First basket after dummy encoding the variables
 ### Apply Apriori Algorithm with min_support 0.003
 
 <p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p5.PNG",alt="neofetch" align="middle" height="70px">
-  </p>
+  ![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p5.PNG)
+  
+  
 
 ### Build  association rules with lift >= 1 & confidence >=0.5
 
-<p align="center">
-  <img src="https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p7.PNG",alt="neofetch" align="middle" height="200px">
-  </p>
+ ![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p7.PNG)
 
 
 
