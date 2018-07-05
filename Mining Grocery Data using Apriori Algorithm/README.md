@@ -101,7 +101,7 @@ First basket after dummy encoding the variables
 
 ### Apply Apriori Algorithm with min_support 0.003
 
-<p align="center">
+
   ![alt-text](https://github.com/rakeshdatascience/Market-Basket-Analysis/blob/master/Mining%20Grocery%20Data%20using%20Apriori%20Algorithm/Images/p5.PNG)
   
   
